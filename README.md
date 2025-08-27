@@ -14,8 +14,7 @@
  -- Arrays for storing student records
  -- Interfaces for defining operations
  -- Custom Exception (StudentNotFoundException) 
- -- Exception
- -- Handling using try-catch
+ -- Exception Handling using try-catch
 
 
 
